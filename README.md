@@ -3,6 +3,7 @@
 Hello there! I’m a student at TU Graz, currently studying Software Engineering & Management. I’m passionate about coding 💻 and always eager to expand my skills in the exciting world of software development 🌐.
 
 🌟 Skills and Experience
+
 Throughout my studies and projects, I’ve had the opportunity to work with several programming languages, including:
 
 🖥️ C – a foundational language that’s helped me understand system-level programming and memory management.
